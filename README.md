@@ -143,4 +143,4 @@ Microsoft Learn: Official platform with hands-on labs and learning paths.
 Azure Documentation: Read service-specific documentation.
 Udemy, Coursera: Plenty of Azure courses with practical projects.
 Practice Projects: Build real-world projects like deploying web apps, setting up databases, automating tasks, and monitoring infrastructure.
-Certification Prep: Study guides, mock exams, and labs from Whizlabs or A Cloud Guru.
+Certification Prep: Study guides, mock exams, and labs from Whizlabs or A Cloud Guru.  
